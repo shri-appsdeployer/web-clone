@@ -1,10 +1,12 @@
 import React from "react";
 import "./About.scss";
+import Aboutmore from "./Aboutmore";
 import about from "../../images/Data.png";
 
 const About = () => {
   return (
     <div className="about-wrapper">
+
       <div className="about">
         <h2 className="about-heading">About</h2>
         <p>
@@ -35,6 +37,7 @@ const About = () => {
           </div>
         </div>
       </div>
+      <Aboutmore/>
     </div>
   );
 };

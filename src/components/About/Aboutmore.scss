@@ -1,0 +1,56 @@
+@import '../Common/Common.scss';
+
+.aboutmore{
+    // border: 1px solid red;
+    background-color:$about-text;
+    color: $about-bg;
+    div{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+        h5{
+            width: 100%;
+            text-align: center;
+        }
+        h3{
+            width: 100%;
+            text-align: center;
+        }
+        p{
+            width: 100%;
+            text-align: justify;
+        }
+
+    }
+    button{
+        width: 15rem;
+        height: 3rem;
+    }
+}
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { 
+    .aboutmore{
+        div{
+            h5{
+                width: 100%;
+                text-align: center;
+            }
+            h3{
+                width: 100%;
+                text-align: center;
+            }
+            p{
+                width: 100%;
+                text-align: center;
+            }
+    
+        }
+    } 
+
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {  }
+
