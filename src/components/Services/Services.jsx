@@ -21,7 +21,7 @@ const Services = () => {
 
         <div className="services-grid-item">
          <div className="services-img-wrap">
-             <img src={dimensions} alt=""  />
+             <img src={dimensions} alt="" style={{height:'75%'}} />
          </div>
              <div>
                 <h5>2D/ 3D Design Layout</h5>
@@ -45,7 +45,7 @@ const Services = () => {
         </div>
              <div>
                 <h5>Residential Interior</h5>
-                <p>We Do All Types Of Interior Designing, Decoration And Furnishing Of Bed Room, Living Room, Dinning Room, Hall Room, Home Entertainment Room, Kids Room, Study Room, Guest Room So That Each Room Can Perfectly Brighten Up Your Environment And Enhance Your Mood</p>
+                <p>We Do All Types Of Interior Designing, Living, Hall, Home Entertainment, Kids, Study, Guest Room So That Each Room Can Perfectly Brighten Up Your Environment And Enhance Your Mood</p>
              </div>
         </div>
         <div className="services-grid-item">
