@@ -1,6 +1,7 @@
 import About from "./components/About/About";
 import Carousel from "./components/Carousel/Carousel";
 import Contact from "./components/contact/Contact";
+import Footer from "./components/footer/Footer";
 import Gallery from "./components/Gallery/Gallery";
 import Navbar from "./components/Navbar/Navbar";
 import Team from "./components/OurTeam/Team";
@@ -18,6 +19,7 @@ function App() {
       <Sayclient/>
       <Gallery/>
       <Contact/>
+      <Footer/>
     </div>
   );
 }
