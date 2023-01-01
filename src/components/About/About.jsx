@@ -5,7 +5,7 @@ import about from "../../images/Data.png";
 
 const About = () => {
   return (
-    <div className="about-wrapper">
+    <div className="about-wrapper" id='about'>
 
       <div className="about">
         <h2 className="about-heading">About</h2>

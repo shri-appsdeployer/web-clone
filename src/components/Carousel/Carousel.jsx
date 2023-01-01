@@ -6,8 +6,8 @@ import carousel3 from '../../images/carousel3.jpg';
 
 const Carousel = () => {
   return (
-         <div id="carouselExample" className="carousel slide">
-          <div className="carousel-inner">
+         <div id="carouselExample" className="carousel slide" >
+          <div className="carousel-inner" id='carousel'>
 
             <div className="carousel-item active">
               <img src={carousel1} className="d-block w-100" alt="..."/>

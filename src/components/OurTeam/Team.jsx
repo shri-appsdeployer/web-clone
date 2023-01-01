@@ -7,7 +7,7 @@ import team4 from '../../images/team4.jpg';
 
 const Team = () => {
   return (
-    <div className='team-wrapper'>
+    <div className='team-wrapper' id='team'>
         <div className="team">
             <h2>Our Team</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, quasi! Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, similique.</p>

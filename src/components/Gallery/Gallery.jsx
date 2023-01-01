@@ -7,7 +7,7 @@ import carousel3 from '../../images/carousel3.jpg';
 
 const Gallery = () => {
   return (
-    <div className='gallery-wrapper'>
+    <div className='gallery-wrapper' id='gallery'>
         <div className="gallery">
             <h2>Gallery</h2>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga, ex?</p>

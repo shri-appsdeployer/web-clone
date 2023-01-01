@@ -7,7 +7,7 @@ const Navbar = () => {
             <nav className="navbar navbar-expand-lg bg-body-tertiary" id='navbar'>
                 <div className="container-fluid">
 
-                    <a className="navbar-brand" href="/">Interior  Company</a>
+                    <a className="navbar-brand" href="#carousel">Interior  Company</a>
 
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
@@ -18,37 +18,37 @@ const Navbar = () => {
 
                         <li className="nav-item">
                              <i className="fa-solid fa-house"></i>
-                             <a className="nav-link " href="/">Home</a>
+                             <a className="nav-link " href="#carousel">Home</a>
                         </li>
     
                         <li className="nav-item">
                         <i className="fa-solid fa-screwdriver-wrench"></i>
-                             <a className="nav-link" href="/">Service</a>
+                             <a className="nav-link" href="#services">Service</a>
                         </li>
 
                         <li className="nav-item">
                         <i className="fa-solid fa-circle-info"></i>
-                             <a className="nav-link" href='/'>About</a>       
+                             <a className="nav-link" href='#about'>About</a>       
                         </li>
 
                         <li className="nav-item">
                         <i className="fa-solid fa-people-group"></i>
-                             <a className="nav-link" href='/'>Our Team</a>       
+                             <a className="nav-link" href='#team'>Our Team</a>       
                         </li>
 
                         <li className="nav-item">
                         <i className="fa-solid fa-briefcase"></i>
-                              <a className="nav-link" href='/'>Portfolio</a>       
+                              <a className="nav-link" href='#gallery'>Portfolio</a>       
                         </li>
 
                         <li className="nav-item">
                         <i className="fa-solid fa-calculator"></i>
-                              <a className="nav-link" href='/'>Calculator</a>       
+                              <a className="nav-link" href='#carousel'>Calculator</a>       
                         </li>
 
                         <li className="nav-item">
                         <i className="fa-solid fa-address-book"></i>
-                              <a className="nav-link" href='/'>Contact</a>       
+                              <a className="nav-link" href='#contact'>Contact</a>       
                         </li>
 
                     </ul>

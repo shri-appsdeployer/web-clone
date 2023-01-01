@@ -11,7 +11,7 @@ import table from '../../images/table.png';
 
 const Services = () => {
   return (
-    <div className="services-wrapper">
+    <div className="services-wrapper" id="services">
 
     <div className="services">
       <h2 className="services-heading">Our Services</h2>
