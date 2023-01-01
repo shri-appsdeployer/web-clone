@@ -1,5 +1,6 @@
 import About from "./components/About/About";
 import Carousel from "./components/Carousel/Carousel";
+import Contact from "./components/contact/Contact";
 import Gallery from "./components/Gallery/Gallery";
 import Navbar from "./components/Navbar/Navbar";
 import Team from "./components/OurTeam/Team";
@@ -16,6 +17,7 @@ function App() {
       <Team/>
       <Sayclient/>
       <Gallery/>
+      <Contact/>
     </div>
   );
 }

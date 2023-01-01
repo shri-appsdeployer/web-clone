@@ -27,12 +27,7 @@ const About = () => {
               aliquam, beatae ullam ad distinctio sit unde, vel quas dolores
               voluptatum assumenda qui sed? Perferendis, laudantium quisquam?
               Nulla impedit aliquid, omnis reiciendis totam delectus suscipit
-              quas ad, quo placeat repudiandae provident explicabo odit. Lorem
-              ipsum dolor sit, amet consectetur adipisicing elit. Quaerat minus
-              aliquam voluptates. Velit saepe tempore facere nam debitis eos
-              fugiat nisi sit corporis nostrum pariatur libero obcaecati
-              veritatis ab excepturi at possimus quam nobis id necessitatibus,
-              ea officiis. Enim, quo?
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, officia? 
             </p>
           </div>
         </div>
